@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "nombre": "Football Analytics",
+    "descripcion": "Análisis de datos de fútbol con StatsBomb Open Data. Visualizaciones de eventos y mapas de calor de pases.",
+    "tecnologias": ["Python", "Streamlit", "Pandas", "Matplotlib"],
+    "imagen": null,
+    "linkDemo": null,
+    "linkRepo": "https://github.com"
+  },
+  {
+    "id": 3,
+    "nombre": "TanCat Deportes",
+    "descripcion": "Sistema de gestión de canchas deportivas. Reservas, turnos y pagos con bot de WhatsApp integrado.",
+    "tecnologias": ["React", "Firebase", "Node.js"],
+    "imagen": null,
+    "linkDemo": null,
+    "linkRepo": "https://github.com"
+  },
+  {
+    "id": 4,
+    "nombre": "JL Ecommerce",
+    "descripcion": "Tienda online con catálogo, carrito de compras y gestión de stock en tiempo real.",
+    "tecnologias": ["React", "Firebase", "Bootstrap 5"],
+    "imagen": null,
+    "linkDemo": null,
+    "linkRepo": "https://github.com"
+  },
+  {
+    "id": 7,
+    "nombre": "Punto Tech",
+    "descripcion": "Sistema de gestión para negocio de computadoras. Ventas, stock y panel de administración con reportes.",
+    "tecnologias": ["React", "Firebase", "Node.js"],
+    "imagen": null,
+    "linkDemo": null,
+    "linkRepo": "https://github.com"
+  },
+  {
+    "id": 8,
+    "nombre": "Sistema Ortopedia",
+    "descripcion": "Software de análisis estático de pies mediante imágenes. Asiste al profesional en confección de plantillas y seguimiento clínico.",
+    "tecnologias": ["Python", "OpenCV", "Firebase"],
+    "imagen": null,
+    "linkDemo": null,
+    "linkRepo": "https://github.com"
+  }
+]
