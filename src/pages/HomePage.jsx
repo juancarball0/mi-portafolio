@@ -13,7 +13,6 @@ const SKILLS = [
 
 const STATS = [
   { numero: `${proyectos.length}+`, label: 'Proyectos' },
-  { numero: '2023',                 label: 'Desde'     },
 ];
 
 /* ─── Componente ─────────────────────────────────── */
