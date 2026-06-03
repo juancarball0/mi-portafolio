@@ -217,6 +217,18 @@ const ContactPage = () => {
               github.com/juancarball0
             </a>
           </div>
+
+          <div className="card-info">
+            <span className="section-label">LinkedIn</span>
+            <a
+              href="https://www.linkedin.com/in/juan-francisco-carballo-b0078626b/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ fontFamily: 'var(--font-mono)', fontSize: '0.82rem', color: 'var(--accent)', textDecoration: 'none' }}
+            >
+              linkedin.com/in/juan-francisco-carballo
+            </a>
+          </div>
         </div>
 
         {/* Columna derecha: Calendly */}
